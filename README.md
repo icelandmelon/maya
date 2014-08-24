@@ -1,3 +1,3 @@
 maya
 ====
-just testing stuffout
+just testing stuff out
